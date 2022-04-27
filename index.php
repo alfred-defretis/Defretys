@@ -6,7 +6,7 @@
 
 <body>
     <header>
-        <h3>Pendaftaran Siswa Baru</h3>
+        <h3>Pendaftaran Siswa Baru crud</h3>
         <h1>SMK Coding</h1>
     </header>
 
